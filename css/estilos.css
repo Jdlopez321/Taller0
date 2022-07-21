@@ -30,3 +30,49 @@ h4,
 h5 {
     font-family: 'Marcellus', serif;
 }
+
+/*barra de navegacion*/
+
+nav {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--negro2);
+    font-family: 'marcellus', serif;
+    font-size: 1.3em;
+    padding: 1rem;
+
+}
+
+.item {
+
+    padding: 1rem;
+}
+
+menu a {
+
+    color: var(--blanco);
+    text-decoration: none;
+
+
+}
+
+.navbarbuttom {
+
+background-color: var(--azuloscuro);
+color: var(--blanco);
+padding: 0.5rem 1rem;
+border-radius: 5px;
+font-family: 'marcellus', serif;
+font-size: 1em;
+}
+.menu i {
+    margin-right:0.5rem ;
+}
+
+.logo img {
+
+height: 3em;
+
+}
