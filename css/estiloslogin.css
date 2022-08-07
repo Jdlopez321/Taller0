@@ -3,7 +3,7 @@ body {
     font-weight: normal;
     font-size: 100%;
     color: #1b262c;
-    
+    background: url(../img/login/bg-login.png);
     margin: 0;
 }
 
