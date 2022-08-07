@@ -357,6 +357,69 @@ justify-content: space-around;
 
 }
 
+.footer {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: var(--negro2);
+    color: var(--blanco);
+    padding: 3rem;
+
+}
+
+.footer-descripcion {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-basis: 30rem;
+}
+
+.footer .footer-descripcion .iconos {
+
+    display: flex;
+    flex-direction: row;
+     padding:0.5rem;
+
+}
+
+.footer .footer-descripcion .iconos i {
+
+    display: flex;
+    flex-direction: row;
+     padding: 0.6rem;
+
+}
+
+.footer-direccion {
+
+    display: flex;
+    flex-direction: column;
+    margin-right:1rem; 
+
+}
+
+.footer-direccion p {
+
+    display: flex;
+    flex-direction: row;
+    padding: 0.2rem;
+
+}
+
+.footer-politicas {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-politicas p {
+
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2rem;
+}
 
 @media screen and (min-width: 1024px) {
     nav {
