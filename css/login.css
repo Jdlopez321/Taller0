@@ -23,7 +23,11 @@ body{
 }
 
 .login{
+<<<<<<< HEAD
     background-image: url(../img/login/bg-login.png);
+=======
+    background-image: url(../IMG/login/bg-login.png);
+>>>>>>> 0d421535a0e782da1e7e8473f5023a7c53698eb9
     background-size: cover;
     height: 100vh;
 }
@@ -38,7 +42,11 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
+<<<<<<< HEAD
     background-image: url(../img/login/bg-login.png);
+=======
+    background-image: url(../IMG/login/bg-login.png);
+>>>>>>> 0d421535a0e782da1e7e8473f5023a7c53698eb9
     background-size: cover;
 }
 
@@ -112,7 +120,11 @@ body{
     min-width: 400px;
     min-height: 500px;
     background-color:  rgba(73, 130, 168, 0.838);
+<<<<<<< HEAD
     background-image: url(../img/login/vector-login.svg);
+=======
+    background-image: url(../IMG/login/vector-login.svg);
+>>>>>>> 0d421535a0e782da1e7e8473f5023a7c53698eb9
     background-size: 100% auto;
     background-repeat: no-repeat;
     padding: 1rem 2rem;
